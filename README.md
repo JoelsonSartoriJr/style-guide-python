@@ -27,9 +27,9 @@ que iremos utilizar,  iremos apresentar alguns exemplos porem no final desse doc
     <li> Nome deve ser auto explicativo.</li>
 </ol> 
 
-```
-    DB_MESSAGE = 'https://banco-message'
-    URL_REQUEST_IMAGE = 'https://banco-images'
+```python
+DB_MESSAGE = 'https://banco-message'
+URL_REQUEST_IMAGE = 'https://banco-images'
 ```
 
 <h3 align="left"> 
@@ -44,25 +44,21 @@ que iremos utilizar,  iremos apresentar alguns exemplos porem no final desse doc
     <li> Deve ser utilizado docstring para documentar a funções.</li>
 </ol>
 
-```
-    def soma_dois_inteiros(inteiro_a:int, inteiro_b:int)->int:
-        """ Função que realiza a soma de dois números inteiros.
-    
-            Args:
-                numero_a: primeiro números inteiro da soma.
-                numero_b: segundo números inteiro da soma.
-    
-            Returns:
-                resultado: soma dois números inteiros.
-    
-            Raises:
-                raise: formato de dados invalidos.
-        """
-    
-        if type(inteiro_a) != int or type(inteiro_b) != int:
-            raise Exception("Formato de dados invalidos")
-    
-        return inteiro_a + inteiro_b
+```python
+def soma_dois_inteiros(inteiro_a:int, inteiro_b:int)->int:
+    """ Função que realiza a soma de dois números inteiros.
+        Args:
+            numero_a: primeiro números inteiro da soma.
+            numero_b: segundo números inteiro da soma.
+        Returns:
+            resultado: soma dois números inteiros.
+        Raises:
+            raise: formato de dados invalidos.
+    """
+    if type(inteiro_a) != int or type(inteiro_b) != int:
+        raise Exception("Formato de dados invalidos")
+
+    return inteiro_a + inteiro_b
 ```
 
 <h2 align="left"> Referencias </h2>
