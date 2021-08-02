@@ -5,7 +5,7 @@ que iremos utilizar,  iremos apresentar alguns exemplos porem no final desse doc
 <h2 align="left"> Nome de variáveis e constantes </h2>
 
 <h3 align="left"> 
-    variáveis
+    Variáveis
 </h3>
 <ol>
     <li> Nome todo em minúsculo.</li>
