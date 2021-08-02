@@ -7,11 +7,11 @@ que iremos utilizar,  iremos apresentar alguns exemplos porem no final desse doc
 <h3 align="left"> 
     Variáveis
 </h3>
-<ol>
+<ul>
     <li> Nome todo em minúsculo.</li>
     <li> Utilização de snake case.</li>
     <li> Nome deve ser auto explicativo.</li>
-</ol> 
+</ul> 
 
 ```python
 messages_lower_case = ['mensagem um', 'mensagem dois', 'mensagem quatro']
@@ -21,11 +21,11 @@ number_messages = 3
 <h3 align="left"> 
     Constantes
 </h3>
-<ol>
+<ul>
     <li> Nome todo em maiúsculo.</li>
     <li> Utilização de snake case.</li>
     <li> Nome deve ser auto explicativo.</li>
-</ol> 
+</ul> 
 
 ```python
 DB_MESSAGE = 'https://banco-message'
@@ -35,14 +35,14 @@ URL_REQUEST_IMAGE = 'https://banco-images'
 <h3 align="left"> 
     Funções
 </h3>
-<ol>
+<ul>
     <li> Nome todo em minúsculo.</li>
     <li> Utilização de snake case.</li>
     <li> Nome deve ser auto explicativo.</li>
     <li> As variáveis devem estar tipadas.</li>
     <li> A saida da função deve estar tipadas.</li>
     <li> Deve ser utilizado docstring para documentar a funções.</li>
-</ol>
+</ul>
 
 ```python
 def soma_dois_inteiros(inteiro_a:int, inteiro_b:int)->int:
