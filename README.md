@@ -4,7 +4,7 @@
 <p align="center">🚀 Neste github procuramos estabelecer um padrão nos códigos em Python
 que iremos utilizar,  iremos apresentar alguns exemplos porem no final desse documento criamos algumas referências que podem auxiliar a sanar possíveis dúvidas que possam ocorrer.</p>
 
-<h3 align="center">
+<h3 align="left">
     <a > Nome de variáveis e constantes</a>
 </h3>
 
