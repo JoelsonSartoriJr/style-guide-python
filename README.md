@@ -15,6 +15,21 @@ que iremos utilizar,  iremos apresentar alguns exemplos porem no final desse doc
 
 ```
     messages_lower_case = ['mensagem um', 'mensagem dois', 'mensagem quatro']
+    number_messages = 3
+```
+
+<h3 align="left"> 
+    Constantes
+</h3>
+<ol>
+    <li> Nome todo em maiúsculo.</li>
+    <li> Utilização de snake case.</li>
+    <li> Nome deve ser auto explicativo.</li>
+<ol> 
+
+```
+    DB_MESSAGE = 'https://banco-message'
+    URL_REQUEST_IMAGE = 'https://banco-images'
 ```
 
 <h2 align="left"> Referencias </h2>
