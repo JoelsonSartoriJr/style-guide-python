@@ -13,9 +13,9 @@ que iremos utilizar,  iremos apresentar alguns exemplos porem no final desse doc
     <li> Nome deve ser auto explicativo.</li>
 </ol> 
 
-```
-    messages_lower_case = ['mensagem um', 'mensagem dois', 'mensagem quatro']
-    number_messages = 3
+```python
+messages_lower_case = ['mensagem um', 'mensagem dois', 'mensagem quatro']
+number_messages = 3
 ```
 
 <h3 align="left"> 
