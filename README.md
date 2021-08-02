@@ -11,7 +11,7 @@ que iremos utilizar,  iremos apresentar alguns exemplos porem no final desse doc
     <li> Nome todo em minúsculo.</li>
     <li> Utilização de snake case.</li>
     <li> Nome deve ser auto explicativo.</li>
-<ol> 
+</ol> 
 
 ```
     messages_lower_case = ['mensagem um', 'mensagem dois', 'mensagem quatro']
@@ -25,7 +25,7 @@ que iremos utilizar,  iremos apresentar alguns exemplos porem no final desse doc
     <li> Nome todo em maiúsculo.</li>
     <li> Utilização de snake case.</li>
     <li> Nome deve ser auto explicativo.</li>
-<ol> 
+</ol> 
 
 ```
     DB_MESSAGE = 'https://banco-message'
